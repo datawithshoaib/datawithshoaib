@@ -70,28 +70,26 @@
   <a href="https://medium.com/@datawithshoaib" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
+</p>
 
 ## 🧑🏻‍💻 Coding Profiles
+
+<p align="left">
     <a href="https://www.leetcode.com/shoaibcodes" target="_blank">
         <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
     </a>
-
     <a href="https://www.hackerrank.com/profile/shoaibcodes" target="_blank">
         <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
     </a>
-
     <!-- <a href="https://www.codechef.com/users/shoaibcodes" target="_blank">
         <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
     </a>
-
     <a href="https://codeforces.com/profile/shoaib57" target="_blank">
         <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
     </a>
-
     <a href="https://www.kaggle.com/shaikshoaib7" target="_blank">
         <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
     </a> -->
-
 </p>
 
 ## 📊 GitHub Stats
