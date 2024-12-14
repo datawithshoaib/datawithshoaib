@@ -10,7 +10,7 @@
 </p>
 
 - 👨‍💻 All of my projects are available [here](https://datawithshoaib.in/projects/)
-- 📝 I regularly write articles [here](https://datawithshoaib.in/)
+- 📝 Check out my blogs/notes [here](https://datawithshoaib.in/)
 - 📫 Reach out to me at **datawithshoaib@gmail.com**
 - ⚡ Fun fact **whatever**
 
