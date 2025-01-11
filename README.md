@@ -43,13 +43,13 @@
 ## 🤝 Connect with me
 
 <p align="left">
-  <a href="https://x.com/datawithshoaib" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)" />
-  </a>
   <a href="https://linkedin.com/in/datawithshoaib" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://fb.com/datawithshoaib" target="_blank">
+  <a href="https://x.com/datawithshoaib" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)" />
+  </a>
+<!--   <a href="https://fb.com/datawithshoaib" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://instagram.com/datawithshoaib" target="_blank">
@@ -57,7 +57,7 @@
   </a>
   <a href="https://www.youtube.com/@datawithshoaib" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
+  </a> -->
   <a href="https://datawithshoaib.in/" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=link&logoColor=white" alt="Personal Website" />
   </a>
