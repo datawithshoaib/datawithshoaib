@@ -9,8 +9,8 @@
   <img src="https://komarev.com/ghpvc/?username=datawithshoaib&label=Profile%20views&color=0e75b6&style=flat" alt="datawithshoaib" />
 </p>
 
-- 👨‍💻 All of my projects are available [here](https://datawithshoaib.in/projects/)
-- 📝 Check out my blogs/notes [here](https://datawithshoaib.in/)
+- 👨‍💻 Check out my projects [here](https://datawithshoaib.github.io/projects/)
+- 📝 Check out my blogs/notes [here](https://datawithshoaib.github.io/)
 - 📫 Reach out to me at **datawithshoaib@gmail.com**
 - ⚡ Fun fact **whatever**
 
