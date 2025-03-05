@@ -10,7 +10,6 @@
 - 👨‍💻 Check out my projects [here](https://datawithshoaib.github.io/projects/)
 - 📝 Check out my blogs/notes [here](https://datawithshoaib.github.io/)
 - 📫 Reach out to me at **datawithshoaib@gmail.com**
-- ⚡ Fun fact **whatever**
 
 ## 🛠️ Skills
 
