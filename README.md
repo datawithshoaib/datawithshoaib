@@ -1,5 +1,3 @@
- <!-- [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://datawithshoaib.in) -->
-
 <h1 align="center">Hi 👋, I'm Shoaib</h1>
 <h3 align="center">Currently working as a Data Analyst with 2.5 years of experience</h3>
 
@@ -63,7 +61,7 @@
   </a>
 </p>
 
-## 🧑🏻‍💻 Coding Profiles
+## 🧑🏻‍💻 Coding
 
 <p align="left">
     <a href="https://www.leetcode.com/shoaibcodes" target="_blank">
@@ -83,16 +81,3 @@
     </a> -->
 </p>
 
-## 📊 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=datawithshoaib&show_icons=true&locale=en&layout=compact" alt="datawithshoaib" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=datawithshoaib&show_icons=true&locale=en" alt="datawithshoaib" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=datawithshoaib&" alt="datawithshoaib" />
-</p>
