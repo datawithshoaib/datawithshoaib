@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shoaib</h1>
-<h3 align="center">Currently working as a Data Analyst with 2.5 years of experience</h3>
+<h3 align="center">Certified Data Analyst with 2.5 years of experience</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=datawithshoaib&label=Profile%20views&color=0e75b6&style=flat" alt="datawithshoaib" />
