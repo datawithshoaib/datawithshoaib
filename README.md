@@ -6,7 +6,7 @@
 </p>
 
 - 👨‍💻 Check out my projects [here](https://datawithshoaib.in/projects/)
-- 📝 Check out my blogs/notes [here](https://datawithshoaib.in)
+- 📝 Check out my website [here](https://datawithshoaib.in)
 - 📫 Reach out to me at **datawithshoaib@gmail.com**
 
 ## 🛠️ Skills
