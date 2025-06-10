@@ -5,8 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=datawithshoaib&label=Profile%20views&color=0e75b6&style=flat" alt="datawithshoaib" />
 </p>
 
-- 👨‍💻 Check out my projects [here](https://datawithshoaib.github.io/projects/)
-- 📝 Check out my blogs/notes [here](https://datawithshoaib.github.io/)
+- 👨‍💻 Check out my projects [here](https://datawithshoaib.in/projects/)
+- 📝 Check out my blogs/notes [here](https://datawithshoaib.in)
 - 📫 Reach out to me at **datawithshoaib@gmail.com**
 
 ## 🛠️ Skills
@@ -53,7 +53,7 @@
   <a href="https://www.youtube.com/@datawithshoaib" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a> -->
-  <a href="https://datawithshoaib.github.io/" target="_blank">
+  <a href="https://datawithshoaib.in/" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=link&logoColor=white" alt="Personal Website" />
   </a>
   <a href="https://medium.com/@datawithshoaib" target="_blank">
