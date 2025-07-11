@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=datawithshoaib&label=Profile%20views&color=0e75b6&style=flat" alt="datawithshoaib" />
 </p>
 
-- 👨‍💻 Check out my projects [here](https://datawithshoaib.in/projects/)
+- 👨‍💻 Check out my projects [here](https://datawithshoaib.in/portfolio/)
 - 📝 Check out my website [here](https://datawithshoaib.in)
 - 📫 Reach out to me at **datawithshoaib@gmail.com**
 
@@ -34,6 +34,7 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
 
 ## 🤝 Connect with me
 
