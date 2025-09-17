@@ -5,8 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=datawithshoaib&label=Profile%20views&color=0e75b6&style=flat" alt="datawithshoaib" />
 </p>
 
-- 👨‍💻 Check out my projects [here](https://datawithshoaib.in/portfolio/)
-- 📝 Check out my website [here](https://datawithshoaib.in)
+- 👨‍💻 Check out my website [here](https://datawithshoaib.github.io/)
 - 📫 Reach out to me at **datawithshoaib@gmail.com**
 
 ## 🛠️ Skills
